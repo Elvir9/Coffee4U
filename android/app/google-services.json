@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "612987973108",
+    "firebase_url": "https://brew-20d3d.firebaseio.com",
+    "project_id": "brew-20d3d",
+    "storage_bucket": "brew-20d3d.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:612987973108:android:e7e9ef3e5f3bbc3eec5da1",
+      "android_client_info": {
+        "package_name": "com.example.brew_crew"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "612987973108-jahhhs4p2cv7rpmbs9gh7d6m4mqvsphj.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyCQIp8his7l4f9jB4nPTidi4fGP4tAyjqM"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "612987973108-jahhhs4p2cv7rpmbs9gh7d6m4mqvsphj.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
